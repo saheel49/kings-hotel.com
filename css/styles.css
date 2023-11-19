@@ -1,0 +1,43 @@
+body {
+    background-color: #EFEFD0;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: bold;
+    color: #091235;
+}
+
+.header {
+    font-size: 32px;
+    font-weight: bold;
+    color: #091235;
+}
+
+.sub-header {
+    font-size: 24px;
+    font-weight: medium;
+    color: #2b4257;
+}
+
+.content,
+th,
+td {
+    font-size: 20px;
+    color: #14202e;
+}
+
+th {
+    font-style: italic;
+}
+
+.link {
+    font-size: 20px;
+    color: #88a9c3;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.text-center {
+    text-align: center;
+}
